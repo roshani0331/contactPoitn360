@@ -135,6 +135,7 @@ npm run dev
 - git commit -m "Initial Commit"
 - git commit -m "Adding functionality"
 - git commit -m "Update Readme."
+- git commit -m "Fixing build error while deploying."
 
 ## License
 
