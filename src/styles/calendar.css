@@ -1,0 +1,9 @@
+.rbc-month-view .rbc-date-cell.has-data {
+  background: rgba(25, 118, 210, 0.08);
+  border-radius: 6px;
+}
+
+.rbc-month-view .rbc-date-cell.selected {
+  outline: 2px solid #1976d2;
+  border-radius: 6px;
+}
